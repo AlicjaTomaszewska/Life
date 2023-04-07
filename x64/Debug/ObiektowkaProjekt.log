@@ -1,0 +1,21 @@
+﻿  Animal.cpp
+  Antelope.cpp
+  Belladonna.cpp
+  Fox.cpp
+  Grass.cpp
+  Guarana.cpp
+  Human.cpp
+  ObiektowkaProjekt.cpp
+  Organism.cpp
+  Plant.cpp
+  Sheep.cpp
+  SosnowskysHogweed.cpp
+  SowThistle.cpp
+  Turtle.cpp
+  Wolf.cpp
+  World.cpp
+C:\Users\48531\Desktop\studia\semestr_2\object programming\Life\World.cpp(24,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\48531\Desktop\studia\semestr_2\object programming\Life\World.cpp(68,25): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48531\Desktop\studia\semestr_2\object programming\Life\World.cpp(125,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  ObiektowkaProjekt.vcxproj -> C:\Users\48531\Desktop\studia\semestr_2\object programming\Life\x64\Debug\ObiektowkaProjekt.exe
